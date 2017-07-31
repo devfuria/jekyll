@@ -1,3 +1,3 @@
 # Jekyll, gerador de sites estáticos
 
-Aprenda Jekyll!!!!
+Trilha para ensino (um tipo de rascunho)
